@@ -1,7 +1,6 @@
 # pyenv and venv
 .vscode/
 bin/
-lecture3/
 pyvenv.cfg
 share/
 
